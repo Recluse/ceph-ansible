@@ -23,3 +23,6 @@ client0
 
 [rbdmirrors]
 rbd-mirror0
+
+[iscsi-gws]
+iscsi-gw0
